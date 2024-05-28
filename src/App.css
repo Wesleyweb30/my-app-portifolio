@@ -1,0 +1,20 @@
+.hero {
+  background-image: url('https://via.placeholder.com/1920x600');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.technologies i {
+  margin-bottom: 10px;
+}
